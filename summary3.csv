@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET /wiki/Special:Search,21,750,511,1485,215.46,95.238%,12.54480,141.45,4.85,11546.3
+GET /wiki/Help:Contents,21,110,65,183,38.24,100.000%,23.72881,68.78,3.66,2968.0
+TOTAL,42,430,65,1485,355.60,97.619%,23.33333,165.37,6.31,7257.2

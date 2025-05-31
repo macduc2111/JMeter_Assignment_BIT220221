@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET /wiki/Main_Page,51,963,622,1230,165.81,0.000%,1.67979,196.26,0.50,119639.0
+GET /wiki/Special:Random,51,242,130,756,85.94,98.039%,1.70688,10.18,0.53,6108.5
+TOTAL,102,602,130,1230,383.71,49.020%,3.33802,204.96,1.02,62873.7
